@@ -1,0 +1,1 @@
+{t hasht.core/t*}
